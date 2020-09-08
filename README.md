@@ -24,7 +24,7 @@ A workout tracking app that will store workouts in a database and display them i
 Download the source code, then in the folder with script.js run "npm install". 
 
 ## Usage
-In the folder with server.js run "npm start". Add workouts in the fitness trackers page, and view them on the dashboard page.
+In the folder with server.js run "npm start". Or go to the deployed application at https://workout-tracker-tober65.herokuapp.com/ Add workouts in the fitness trackers page, and view them on the dashboard page.
 
 ## License
 This is licensed under the [MIT license](https://choosealicense.com/licenses/mit/).
